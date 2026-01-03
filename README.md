@@ -43,10 +43,10 @@ base64 to image tool/
 
 ```bash
 # 克隆项目
-git clone <repository-url>
+git clone https://github.com/universe-fly/AI-Image-Generator.git
 
 # 进入目录
-cd "base64 to image tool"
+cd AI-Image-Generator
 
 # 直接打开 index.html 或使用本地服务器
 # 方式一：直接双击 index.html
